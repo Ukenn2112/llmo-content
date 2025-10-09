@@ -8,7 +8,7 @@
 
 ### 背景と課題認識
 
-従来のSEO（Search Engine Optimization）に加え、**ChatGPT、Claude、Gemini等の生成AIに引用されやすいコンテンツ**の需要が急激に高まっている。これに対応する新しい最適化手法として**LLMO（Large Language Model Optimization）**と**GEO（Generative Engine Optimization）**が注目されているが、実際に対応できるツールは限定的である。
+従来のSEO（Search Engine Optimization）に加え、**ChatGPT、Claude、Gemini等の生成AIに引用されやすいコンテンツ** の需要が急激に高まっている。これに対応する新しい最適化手法として **LLMO（Large Language Model Optimization）**と**GEO（Generative Engine Optimization）** が注目されているが、実際に対応できるツールは限定的である。
 
 ### 解決アプローチ
 
