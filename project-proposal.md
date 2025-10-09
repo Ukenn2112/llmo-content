@@ -1,6 +1,6 @@
 # LLMO コンテンツ生成システム　企画書
 
-**プロジェクト名**: LLMO（Large Language Model Optimization）コンテンツ生成システム  ￥
+**プロジェクト名**: LLMO（Large Language Model Optimization）コンテンツ生成システム
 
 ---
 
